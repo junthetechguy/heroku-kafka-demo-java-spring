@@ -8,7 +8,7 @@ You'll need to [provision](#provisioning) the app.
 ## Building
 
 ```
-mvn clean compile
+gradle build
 ```
 
 ## Provisioning
